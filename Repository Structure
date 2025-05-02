@@ -1,0 +1,17 @@
+manufacturing-anomaly-detection/
+├── README.md
+├── requirements.txt
+├── src/
+│   ├── __init__.py
+│   ├── data_loader.py
+│   ├── model.py
+│   ├── preprocessing.py
+│   ├── train.py
+│   └── inference.py
+├── notebooks/
+│   ├── 01_data_exploration.ipynb
+│   ├── 02_model_training.ipynb
+│   └── 03_results_visualization.ipynb
+└── docs/
+    ├── architecture.png
+    └── results.md
